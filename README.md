@@ -1,4 +1,4 @@
-# DSADATAANALYSIS-CAPSTONEPROJECT
+# AMAZON DATA ANALYSIS PROJECT
 # Table of Contents
 #### Project Overview
 #### Project Files
